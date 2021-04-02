@@ -1,3 +1,3 @@
 # UwU
 
-![uwu](uwu/uwu.jpg)
+![uwu](uwu/uwu.png)
